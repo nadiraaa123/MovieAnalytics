@@ -29,7 +29,7 @@ DB_CONFIG = dict(
     host="localhost",
     database="dvdrental",
     user="postgres",
-    password="nadirakp1606",
+    password="",
     port=5432,
 )
 
